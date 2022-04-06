@@ -1,0 +1,164 @@
+body{
+    width: ; 
+}
+div.top1{
+    background-image: url("img/pexels-pixabay-159671.jpg");
+    background-size: 1330px 700px;
+    height: 500px;
+    color: antiquewhite;
+}
+div.text{
+    height: 75px;
+    background-color:  rgba(0, 0, 0, 0.5) ;
+}
+div.top2{
+    height: 80px;
+background-color: rgba(7, 17, 71, 0.64) ;
+}
+.menu{
+    height: 70px;
+    background-color: rgba(7, 17, 71, 0.34) ;
+
+
+}
+.menu a{
+    color: white;
+
+}
+nav{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+   
+    float: ;
+    padding: 14px 16px;
+}   
+  
+   
+ 
+  nav a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    float: left;
+  }
+  
+  nav a:hover  {
+    background-color: rgb(0, 183, 255);
+  }
+  
+  .active {
+    background-color: ;
+  }
+.ac{
+    font-size: 100px;
+    color: white;
+    margin-top: 120px;
+}
+.mid1{
+     margin-left:  100px;
+     margin-top: 150px;
+    height: 500px;
+    width: 700px;
+      background-image: url("img/pexels-pixabay-261909.jpg");
+    background-size: 1000px 500px;
+    
+
+}
+table.t2{
+    margin-top: 100px;
+    width: 500px;
+    height: 300px;
+    color: white;
+    background-color: rgba(0, 0, 0, 0.526);
+    border:  3px solid rgb(36, 35, 88);
+    border-top-right-radius: 30px;
+    border-bottom-left-radius: 30px;
+    text-align: center;
+
+}
+button{
+    padding: 10px 30px;
+    color: whitesmoke;
+    font-size: 15px;
+    background-color: rgb(17, 17, 97);
+    border-radius: 15px;
+}
+h1.about{
+    color: navy;
+    font-size: 50px;
+}
+h3{
+    color: rgb(17, 17, 97) ;
+    font-size: 30px;
+}
+p.text1{
+    font-family: Arial, Helvetica, sans-serif;
+    width: 600px;
+}
+ 
+img.ia{
+    height: 3o0px;
+    width: 500px;
+    float: left;
+}
+
+ 
+div.c1{
+    width: 500px;
+}
+
+
+  
+table.t1{
+    width: 1000px ;
+    margin-top: 50px;
+}
+div.d1{
+    height: 400px;
+    width: 450px;
+}
+.ab{
+    color: rgb(49, 49, 129);
+}
+
+div.d1 img{
+    height: 180px;
+    width: 450px;
+}
+.text2{
+    word-spacing: inherit;
+    font-size: 20px;
+}
+
+
+
+
+
+div.hr{
+    margin-top: 70px;
+    height: 20px;
+    background-color: rgba(7, 17, 71, 0.34);
+}
+
+div.end{
+    height: 200px;
+}
+.end1{
+    height: 200px;
+    width: 600px ;
+    position: absolute;
+    text-align: center;
+}.end2{
+    height: 200px;
+    width: 600px ;
+    margin-left: 600px;
+    text-align: center;
+}
+table.t4{
+    width: 500px;
+    margin-top: 50px;
+}

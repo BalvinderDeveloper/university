@@ -1,0 +1,184 @@
+div.top1{
+    background-image: url("img/joshua-hoehne-iggWDxHTAUQ-unsplash.jpg");
+    background-size: 1330px 700px;
+    height: 500px;
+    color: antiquewhite;
+}
+div.text{
+    height: 75px;
+    background-color:  rgba(0, 0, 0, 0.5) ;
+}
+div.top2{
+    height: 80px;
+background-color: rgba(7, 17, 71, 0.64) ;
+}
+.menu{
+    height: 70px;
+    background-color: rgba(7, 17, 71, 0.34) ;
+
+
+}
+.menu a{
+    color: white;
+
+}
+.ac{
+    font-size: 100px;
+    color: white;
+    margin-top: 120px;
+}
+.mid1{
+    width: 1000px;
+    margin-top: 100px;
+    margin-left: 100px;
+}
+h1.about{
+    color: navy;
+    font-size: 50px;
+}
+h3{
+    color: rgb(17, 17, 97) ;
+    font-size: 30px;
+}
+p.text1{
+    font-family: Arial, Helvetica, sans-serif;
+    width: 600px;
+}
+ 
+img.ia{
+    height: 3o0px;
+    width: 500px;
+    float: left;
+}
+
+ 
+div.c1{
+    width: 500px;
+}
+
+
+table.t2{
+    width: 1100px;
+    margin-top: 100px;
+    margin-left: 100px;
+}
+
+div.love{
+    height: 900px;
+    width: 1320px;
+    margin-top: 200px;
+}
+.l1{
+    width: 33%;
+    height: 1000px ;
+    float: left;
+   
+}
+.l1i{
+    width: 440px;
+    height: 900px;
+}
+
+.l2{
+    width: 33%;
+    float: left;
+}
+.l2a img{
+    height: 450px;
+    width: 440px;
+}
+
+.l2b{
+    background-color: rgb(20, 20, 56);
+    height: 450px;
+    width: 440px;
+
+}
+.l2b h1{
+    font-size: 100px;
+    text-align: center;
+    color: lightblue;
+}
+.l2b p{
+    font-size: 25px;
+    text-align: center;
+    color: rgb(255, 255, 255);
+
+}
+
+.l3{
+    width: 33%;
+    float: left;
+}
+.l3b img{
+    height: 450px;
+    width: 440px;
+}
+.l3a{
+    background-color: rgb(20, 20, 56);
+    height: 450px;
+    width: 440px;
+
+}
+.l3a h1{
+    font-size: 100px;
+    text-align: center;
+    color: lightblue;
+
+}
+.l3a p{
+    font-size: 25px;
+    text-align: center;
+    color: rgb(255, 255, 255);
+
+}
+
+table.t1{
+    width: 1000px ;
+    margin-top: 50px;
+}
+div.d1{
+    height: 400px;
+    width: 450px;
+}
+.ab{
+    color: rgb(49, 49, 129);
+}
+
+div.d1 img{
+    height: 180px;
+    width: 450px;
+}
+.text2{
+    word-spacing: inherit;
+    font-size: 20px;
+}
+
+
+
+
+
+div.hr{
+    margin-top: 70px;
+    height: 20px;
+    background-color: rgba(7, 17, 71, 0.34);
+}
+
+div.end{
+    height: 200px;
+}
+.end1{
+    height: 200px;
+    width: 600px ;
+    position: absolute;
+    text-align: center;
+}.end2{
+    height: 200px;
+    width: 600px ;
+    margin-left: 600px;
+    text-align: center;
+}
+table.t4{
+    width: 500px;
+    margin-top: 50px;
+}
